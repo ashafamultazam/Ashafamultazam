@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:039799,100:1A237E&height=220&section=header&text=Asha%20Fa%20Multazam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Power%20BI&descSize=20&descAlignY=60" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:039799,100:1A237E&height=220&section=header&text=Ashafa%20Multazam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Power%20BI&descSize=20&descAlignY=60" alt="Header" />
 
 <a href="https://github.com/ashafamultazam">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=039799&center=true&vCenter=true&width=700&lines=Mengubah+data+mentah+menjadi+keputusan+bisnis;Membangun+dashboard+yang+mudah+dipahami;Peserta+MSIB+Batch+7+%E2%80%93+RevoU;Terbuka+untuk+peluang+karier+di+bidang+Data" alt="Typing SVG" />
@@ -9,10 +9,7 @@
 <br>
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst-brightgreen?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-1A237E?style=for-the-badge)
-![Gen AI](https://img.shields.io/badge/Generative%20AI-039799?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Lihat%20Website-039799?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashafamultazam.github.io/ashafa-portofolio/)
 
 </div>
 
@@ -24,7 +21,7 @@ Saya seorang **Data Analyst** yang berfokus pada **Business Intelligence**. Saya
 
 Karena itu, setiap project saya tidak berhenti di grafik. Saya mencari **pertanyaan bisnisnya**, menemukan **penyebabnya**, lalu menutup dengan **rekomendasi yang bisa ditindaklanjuti**. Saya juga terbiasa memeriksa ulang angka sebelum dipercaya, termasuk menandai ketika sebuah metrik di dashboard ternyata menyesatkan.
 
-- 🎓 **Pendidikan:** [Nama Kampus] — [Jurusan]
+- 🎓 **Pendidikan:** Universitas Koperasi Indonesia — Sains Data
 - 🧑‍💻 **Program:** Magang dan Studi Independen Bersertifikat (MSIB) Batch 7, **RevoU** — Data Analytics & Gen AI
 - 📍 **Lokasi:** Indonesia
 - 🔎 **Mencari:** posisi *Data Analyst* / *Business Intelligence Analyst* (magang atau penuh waktu)
